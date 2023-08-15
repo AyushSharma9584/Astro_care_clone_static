@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.part_1_as{
+    background-color: #f0df20;
+    padding:3rem 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.part_1_heading h1{
+    font-size: 46px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.part_1_heading p{
+    font-size: 34px;
+    color: #454545;
+    line-height: 3.3rem;
+}
+
+
